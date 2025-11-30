@@ -1,6 +1,8 @@
 # white_test
 This function performs a White's Test for heteroskedasticity (White, H. (1980)) Use white_test (whitestrap) With (In) R Software
 
+https://www.youtube.com/watch?v=ze7nTT_RNmo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
